@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SwathiLeninMaruboina
 - 👀 I’m interested in Analytics and Data Science
-- 🌱 I’m currently learning IBM data analyst professional certificate
+- 🌱 I’m currently pursuing MBA in Manipal University Jaipur
 - 💞️ I’m looking for Data/Business/Marketing/Finance Analyst position
 - 📫 How to reach me www.linkedin.com/in/swathimaruboina
 
