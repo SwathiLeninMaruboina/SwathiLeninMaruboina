@@ -8,10 +8,16 @@ To Know more - [Portfolio](https://swathileninmaruboi0.wixsite.com/portfolio)
 
 Reach me out - [LinkedIn](www.linkedin.com/in/swathimaruboina)
 
-Mail me - [@ email](swathileninmaruboina@gmail.com)
+Mail me - [@email](swathileninmaruboina@gmail.com)
 
-## TOOLS: 
-Microsoft Excel, Google Sheets, Anaconda, Jupyter Notebook, SQL Sever, Tableau and Power BI
+## SKILLS:
+**Languages:** Python (Matplotlib, Seaborn, Numpy, Pandas), R (dplyr, tidyr, ggplot2), SQL.
+
+**Hard Skills:** Data Analysis, Data Mining, Data Visualizaion, Data Validation, Data Aggregation.
+
+**Techniques:** Data Analytics, Decision Trees, Hypothesis Testing, A/B Testing 
+
+**Tools:** Excel, Jupyter Notebook, RStudio, Power BI, Tableau, Git, Kaggle, VSCode.
 
 ## EXPERIENCE:
 My virtual internship experience at **Accenture North America** and **TATA** has provided me with data analyst skills like framing business questions, data cleaning, data modeling, data transformation, data analysis, data visualization, dashboards and presentation skills that work for companies of any size
