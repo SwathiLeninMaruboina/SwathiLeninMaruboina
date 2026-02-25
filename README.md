@@ -1,4 +1,4 @@
-# Hi, I'm [Swathi Maruboina] 👋
+# Hi, I'm Swathi Maruboina 👋
 
 I'm a **Generative AI & Machine Learning Engineer** passionate about building end-to-end AI solutions. My expertise spans across data analysis, machine learning, NLP, and LLMs, with a strong focus on creating explainable, scalable models that have real-world business impact. I thrive in solving complex problems, optimizing models, and deploying them for production use.
 
