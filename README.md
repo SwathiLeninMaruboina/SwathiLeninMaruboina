@@ -2,7 +2,7 @@
 
 I'm a **Generative AI & Machine Learning Engineer** passionate about building end-to-end AI solutions. My expertise spans across data analysis, machine learning, NLP, and LLMs, with a strong focus on creating explainable, scalable models that have real-world business impact. I thrive in solving complex problems, optimizing models, and deploying them for production use.
 
-Currently pursuing an **MBA in Analytics and Data Science** at **Manipal University** and have a **B.Tech in Computer Science** from **BIET**. I also hold multiple certifications, including **Google Data Analytics**, **IBM Data Analyst**, and **Meta Marketing Analytics**.
+Completed an **MBA in Analytics and Data Science** from **Manipal University** and have a **B.Tech in Computer Science** from **BIET**. I also hold multiple certifications, including **Google Data Analytics**, **IBM Data Analyst**, and **Meta Marketing Analytics**.
 
 ---
 
@@ -74,4 +74,4 @@ Currently pursuing an **MBA in Analytics and Data Science** at **Manipal Univers
 ---
 
 Feel free to connect with me!  
-[LinkedIn](#) | [GitHub](#) | [Portfolio](#)
+[LinkedIn](http://www.linkedin.com/in/swathimaruboina) | [GitHub](https://github.com/SwathiLeninMaruboina) | [Portfolio](https://swathileninmaruboi0.wixsite.com/portfolio)
